@@ -51,4 +51,60 @@ Follow these steps to run the project locally:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/srcvision/sundown_animated_website.git  
+   git clone https://github.com/srcvision/sundown_animated_website.git
+2. Navigate to the Project Directory:
+
+bash
+Copy code
+cd sundown_animated_website  
+Open the Project:
+Open the index.html file in your browser to view the project.
+
+🌐 Deployment
+The project is deployed using Vercel.
+To deploy your own version:
+
+Create an account on Vercel.
+Link your GitHub repository to Vercel.
+Follow the deployment steps provided by Vercel.
+📸 Screenshots
+Home Page
+
+🤝 Contributing
+Contributions are welcome! If you want to contribute:
+
+Fork the repository.
+Create a new branch:
+bash
+Copy code
+git checkout -b feature/YourFeatureName  
+Commit your changes:
+bash
+Copy code
+git commit -m "Add your message here"  
+Push to the branch:
+bash
+Copy code
+git push origin feature/YourFeatureName  
+Submit a pull request.
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+📧 Contact
+For any queries or feedback, feel free to reach out:
+
+Email: [your-email@example.com]
+LinkedIn: Saurav Chaudhari
+Thank you for checking out the Sundown Animated Website! ✨
+
+yaml
+Copy code
+
+---
+
+### Notes:
+1. Replace `[your-email@example.com]` with your email.  
+2. Add screenshots of your project in the **Screenshots** section.  
+3. Adjust any details to fit your project's specifics.  
+
+Let me know if you'd like further customization! 😊  
